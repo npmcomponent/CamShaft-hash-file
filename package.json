@@ -1,0 +1,10 @@
+{
+  "name": "CamShaft-hash-file",
+  "description": "MD5 a file in the browser using the FileReader api ",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "satazor-SparkMD5": "git://github.com/npmcomponent/satazor-SparkMD5.git"
+  },
+  "license": "MIT"
+}
